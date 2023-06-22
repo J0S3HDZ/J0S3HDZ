@@ -6,6 +6,10 @@
 ---
 ### 🛠 My Top Langs 🛠
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0S3HDZ&layout=compact&theme=gotham)](https://github.com/J0S3HDZ/github-readme-stats)
+---
+### 🏆 CodeWars Rank
+<img src="https://www.codewars.com/users/PsychoMX/badges/large" alt="CodeWars KYU" /><br>
+---
 #### Other Langs Used
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -68,8 +72,7 @@
 
 ---
 ### 📈 My GitHub Stats 📈<br>
-<img src="https://github-readme-stats.vercel.app/api?username=J0S3HDZ&show_icons=true&theme=gotham" alt="J0S3HDZ" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=J0S3HDZ&show_icons=true&theme=gotham" alt="J0S3HDZ" /><br>
 ---
 ### 📌Contact
  - E-mail: josehdzoficial@gmail.com
