@@ -1,7 +1,7 @@
 ## Hi! 👋🏼, my name is **Jose Hernández**, also knew as Psycho...
 - From México.
 - Interested in develop web and mobile aplications.
-- Graduated as computational systems engineer in the National Technological of Mexico campus Lázaro Cárdenas.
+- Graduated as computational systems engineer in the National Technological of Mexico campus Lazaro Cardenas.
 - My hobbies: Do workout, listen music, watch videos/movies, invest, etc.
 ---
 ### 🛠 My Top Langs 🛠
@@ -82,4 +82,4 @@
 https://www.buymeacoffee.com/psychomx
 
 
-Actualized 23/02/2023
+Update 23/02/2023
