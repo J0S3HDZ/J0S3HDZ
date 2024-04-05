@@ -10,9 +10,6 @@ Portfolio Very Soon with more info!
 ### 📈 My GitHub Stats 📈<br>
 <img src="https://github-readme-stats.vercel.app/api?username=J0S3HDZ&show_icons=true&theme=gotham" alt="J0S3HDZ" /><br>
 ---
-### 📌Contact
- - E-mail: josehdzoficial@gmail.com
----
 ### 🎁 Support Me 🎁
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) <br>
 https://www.buymeacoffee.com/psychomx
