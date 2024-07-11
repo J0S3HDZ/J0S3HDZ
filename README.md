@@ -5,7 +5,7 @@
 <div style="display:flex; align-items: center; flex-direction: row;">
   
 <a href="https://stackoverflow.com/users/20160135/psychomx"><img src="https://stackoverflow.com/users/flair/20160135.png?theme=dark" width="208" height="58" alt="StackOverFlow English"></a>  <a href="https://es.stackoverflow.com/users/359249/psychomx"><img src="https://es.stackoverflow.com/users/flair/359249.png?theme=dark" width="208" height="58" alt="StackOverFlow Español"></a>
-  <img src="https://www.codewars.com/users/PsychoMX/badges/micro" alt="CodeWars"/>
+  <img src="https://www.codewars.com/users/PsychoMX/badges/small" alt="CodeWars"/>
 </div>
 <hr>
 <div style="display:flex; align-items: center; flex-direction: row;">
