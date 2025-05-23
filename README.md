@@ -3,7 +3,7 @@
 
 ### 
 
-<h2 style="text-align:center; color: violet; background: black; padding: 10px; margin: 0; border: 1px solid gray">🧠 My Knowledge 🧠</h2>
+<h2 align="center" style="color: violet; background: black; padding: 10px; margin: 0; border: 1px solid gray">🧠 My Knowledge 🧠</h2>
 <p align="center" style="border:1px dashed gray">
   <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
