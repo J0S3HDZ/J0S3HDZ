@@ -71,6 +71,10 @@ const psycho = {
     <img src="https://github-readme-stats.vercel.app/api?username=J0S3HDZ&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=J0S3HDZ&theme=dark&hide_border=true" width="400">
   </p>
+</div
+<hr>
+<div align="center">
+  <a href="https://stackexchange.com/users/26527367"><img src="https://stackexchange.com/users/flair/26527367.png?theme=dark" width="208" height="58" alt="perfil para PsychoMx en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad" title="perfil para PsychoMx en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad"></a>
 </div>
 <hr>
 <h3 align="center">➡️ Get In Touch! ⬅️<br>👇👇👇👇</h3>
